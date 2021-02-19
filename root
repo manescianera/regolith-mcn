@@ -1,0 +1,19 @@
+regolith.look: mcn
+
+! -- Styles - Colors
+#include "/etc/regolith/styles/mcn/color"
+
+! -- Styles - Fonts
+#include "/etc/regolith/styles/mcn/typeface"
+
+! -- Styles - Theme
+#include "/etc/regolith/styles/mcn/theme"
+
+! -- Applications
+! These files map values defined above into specific app settings.
+#include "/etc/regolith/styles/mcn/st-term"
+#include "/etc/regolith/styles/mcn/i3-wm"
+#include "/etc/regolith/styles/mcn/i3xrocks"
+#include "/etc/regolith/styles/rofi"
+#include "/etc/regolith/styles/gnome"
+

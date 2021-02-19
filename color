@@ -1,0 +1,24 @@
+#define color_base03   #121319
+#define color_base02   #3e4960
+#define color_base01   #bcc5d8
+#define color_base00   #bcc5d8
+#define color_base0    #bcc5d8
+#define color_base1    #c6c8d1
+#define color_base2    #F28779
+#define color_base3    #FFFFFF
+! no yellow - blueish instead
+#define color_yellow   #78b7e2
+#define color_ltyellow #a8d2ee
+
+#define color_orange   #FFA759
+#define color_red      #bf616a
+#define color_magenta  #c8b5e6
+#define color_violet   #a093c7
+#define color_blue     #84a0c6
+#define color_cyan     #89b8c2
+#define color_green    #a0dbc2
+#define color_brown    #F29E74
+#define color_ltblue   #a3bee3
+#define color_ltgreen  #72c2a2
+#define color_ltcyan   #b6d8de
+#define color_ltred    #e29199
